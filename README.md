@@ -1,6 +1,6 @@
-## Hi, I'm Esteban 👋
+# Hi, I'm Esteban 👋
 
-Apasionado por la tecnología, la programación y el aprendizaje continuo. Siempre estoy buscando nuevas oportunidades para mejorar mis habilidades y colaborar en proyectos interesantes. <br>Me motiva crear soluciones que hagan la vida más fácil y eficiente.
+Apasionado por la tecnología, la programación y el aprendizaje sin fin (¡sí, soy de esos que disfrutan descubrir cosas nuevas todo el tiempo!). Me encanta meterme en proyectos donde pueda aprender, aportar ideas frescas y, por qué no, también pasarla bien. Siempre estoy buscando formas de hacer la vida más fácil y eficiente con soluciones creativas y bien pensadas. Si hay algo que me motiva, es ver cómo una buena idea puede convertirse en una gran herramienta para los demás.
 
 
 # 💻 Tech Stack:
