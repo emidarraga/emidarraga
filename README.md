@@ -23,6 +23,12 @@ Apasionado por la tecnología, la programación y el aprendizaje sin fin (¡sí,
 
 ## ⚡ Actividad reciente
 <!--RECENT_ACTIVITY:start-->
+1. ⬆️ Pushed 1 commit(s) to [EstebanIdarragaDev/EstebanIdarragaDev](https://github.com/EstebanIdarragaDev/EstebanIdarragaDev)<br>
+2. ⬆️ Pushed 1 commit(s) to [EstebanIdarragaDev/EstebanIdarragaDev](https://github.com/EstebanIdarragaDev/EstebanIdarragaDev)<br>
+3. ⬆️ Pushed 1 commit(s) to [EstebanIdarragaDev/EstebanIdarragaDev](https://github.com/EstebanIdarragaDev/EstebanIdarragaDev)<br>
+4. ✌️ Released [v0.0.1](https://github.com/EstebanIdarragaDev/repo-release/releases/tag/v0.0.1) in [EstebanIdarragaDev/repo-release](https://github.com/EstebanIdarragaDev/repo-release)<br>
+5. ⬆️ Pushed 1 commit(s) to [EstebanIdarragaDev/repo-release](https://github.com/EstebanIdarragaDev/repo-release)<br>
+<!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update>
 
