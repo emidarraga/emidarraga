@@ -21,3 +21,9 @@ Apasionado por la tecnología, la programación y el aprendizaje sin fin (¡sí,
 ---
 [![](https://visitcount.itsvg.in/api?id=EstebanIdarragaDev&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## ⚡ Actividad reciente
+<!-- RECENT_ACTIVITY:start>
+
+<!-- RECENT_ACTIVITY:last_update>
+
+
