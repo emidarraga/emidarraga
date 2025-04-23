@@ -23,11 +23,11 @@ Apasionado por la tecnología, la programación y el aprendizaje sin fin (¡sí,
 
 ## ⚡ Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [EstebanIdarragaDev/platzidate](https://github.com/EstebanIdarragaDev/platzidate)<br>
-2. 📔 Created new repository [EstebanIdarragaDev/platzidate](https://github.com/EstebanIdarragaDev/platzidate)<br>
-3. ✌️ Released [v0.1.0](https://github.com/EstebanIdarragaDev/myPackage/releases/tag/v0.1.0) in [EstebanIdarragaDev/myPackage](https://github.com/EstebanIdarragaDev/myPackage)<br>
-4. 📔 Created new repository [EstebanIdarragaDev/myPackage](https://github.com/EstebanIdarragaDev/myPackage)<br>
-5. ✌️ Released [v0.0.1](https://github.com/EstebanIdarragaDev/myPackage/releases/tag/v0.1.0) in [EstebanIdarragaDev/myPackage](https://github.com/EstebanIdarragaDev/myPackage)<br>
+1. 📔 Created new repository [EstebanIdarragaDev/javascript-projects](https://github.com/EstebanIdarragaDev/javascript-projects)<br>
+2. ⬆️ Pushed 1 commit(s) to [EstebanIdarragaDev/platzidate](https://github.com/EstebanIdarragaDev/platzidate)<br>
+3. 📔 Created new repository [EstebanIdarragaDev/platzidate](https://github.com/EstebanIdarragaDev/platzidate)<br>
+4. ✌️ Released [v0.1.0](https://github.com/EstebanIdarragaDev/myPackage/releases/tag/v0.1.0) in [EstebanIdarragaDev/myPackage](https://github.com/EstebanIdarragaDev/myPackage)<br>
+5. 📔 Created new repository [EstebanIdarragaDev/myPackage](https://github.com/EstebanIdarragaDev/myPackage)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update>
