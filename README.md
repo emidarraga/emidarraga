@@ -11,23 +11,23 @@ Apasionado por la tecnología, la programación y el aprendizaje sin fin (¡sí,
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=EstebanIdarragaDev&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=EstebanIdarragaDev&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=EstebanIdarragaDev&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=emidarraga&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=emidarraga&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=emidarraga&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=EstebanIdarragaDev&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=emidarraga&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## ⚡ Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [EstebanIdarragaDev/dise-o-bases-datos](https://github.com/EstebanIdarragaDev/dise-o-bases-datos) from [jonmircha/youtube-bd](https://github.com/jonmircha/youtube-bd)<br>
-2. 📔 Created new repository [EstebanIdarragaDev/javascript-projects](https://github.com/EstebanIdarragaDev/javascript-projects)<br>
-3. ⬆️ Pushed 1 commit(s) to [EstebanIdarragaDev/platzidate](https://github.com/EstebanIdarragaDev/platzidate)<br>
-4. 📔 Created new repository [EstebanIdarragaDev/platzidate](https://github.com/EstebanIdarragaDev/platzidate)<br>
-5. ✌️ Released [v0.1.0](https://github.com/EstebanIdarragaDev/myPackage/releases/tag/v0.1.0) in [EstebanIdarragaDev/myPackage](https://github.com/EstebanIdarragaDev/myPackage)<br>
+1. 🔱 Forked [emidarraga/dise-o-bases-datos](https://github.com/emidarraga/dise-o-bases-datos) from [jonmircha/youtube-bd](https://github.com/jonmircha/youtube-bd)<br>
+2. 📔 Created new repository [emidarraga/javascript-projects](https://github.com/emidarraga/javascript-projects)<br>
+3. ⬆️ Pushed 1 commit(s) to [emidarraga/platzidate](https://github.com/emidarraga/platzidate)<br>
+4. 📔 Created new repository [emidarraga/platzidate](https://github.com/emidarraga/platzidate)<br>
+5. ✌️ Released [v0.1.0](https://github.com/emidarraga/myPackage/releases/tag/v0.1.0) in [emidarraga/myPackage](https://github.com/emidarraga/myPackage)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update>
