@@ -23,11 +23,11 @@ Apasionado por la tecnología, la programación y el aprendizaje sin fin (¡sí,
 
 ## ⚡ Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [emidarraga/dise-o-bases-datos](https://github.com/emidarraga/dise-o-bases-datos) from [jonmircha/youtube-bd](https://github.com/jonmircha/youtube-bd)<br>
-2. 📔 Created new repository [emidarraga/javascript-projects](https://github.com/emidarraga/javascript-projects)<br>
-3. ⬆️ Pushed 1 commit(s) to [emidarraga/platzidate](https://github.com/emidarraga/platzidate)<br>
-4. 📔 Created new repository [emidarraga/platzidate](https://github.com/emidarraga/platzidate)<br>
-5. ✌️ Released [v0.1.0](https://github.com/emidarraga/myPackage/releases/tag/v0.1.0) in [emidarraga/myPackage](https://github.com/emidarraga/myPackage)<br>
+1. ⬆️ Pushed 1 commit(s) to [emidarraga/emidarraga](https://github.com/emidarraga/emidarraga)<br>
+2. 🔱 Forked [EstebanIdarragaDev/dise-o-bases-datos](https://github.com/EstebanIdarragaDev/dise-o-bases-datos) from [jonmircha/youtube-bd](https://github.com/jonmircha/youtube-bd)<br>
+3. 📔 Created new repository [EstebanIdarragaDev/javascript-projects](https://github.com/EstebanIdarragaDev/javascript-projects)<br>
+4. ⬆️ Pushed 1 commit(s) to [EstebanIdarragaDev/platzidate](https://github.com/EstebanIdarragaDev/platzidate)<br>
+5. 📔 Created new repository [EstebanIdarragaDev/platzidate](https://github.com/EstebanIdarragaDev/platzidate)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update>
