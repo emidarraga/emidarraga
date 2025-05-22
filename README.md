@@ -26,8 +26,6 @@ Apasionado por la tecnología, la programación y el aprendizaje sin fin (¡sí,
 1. ⬆️ Pushed 1 commit(s) to [emidarraga/emidarraga](https://github.com/emidarraga/emidarraga)<br>
 2. 🔱 Forked [EstebanIdarragaDev/dise-o-bases-datos](https://github.com/EstebanIdarragaDev/dise-o-bases-datos) from [jonmircha/youtube-bd](https://github.com/jonmircha/youtube-bd)<br>
 3. 📔 Created new repository [EstebanIdarragaDev/javascript-projects](https://github.com/EstebanIdarragaDev/javascript-projects)<br>
-4. ⬆️ Pushed 1 commit(s) to [EstebanIdarragaDev/platzidate](https://github.com/EstebanIdarragaDev/platzidate)<br>
-5. 📔 Created new repository [EstebanIdarragaDev/platzidate](https://github.com/EstebanIdarragaDev/platzidate)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update>
