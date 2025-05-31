@@ -23,11 +23,11 @@ Apasionado por la tecnología, la programación y el aprendizaje sin fin (¡sí,
 
 ## ⚡ Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [midudev/libros-programacion-gratis](https://github.com/midudev/libros-programacion-gratis)<br>
-2. ⭐ Starred [feathericons/feather](https://github.com/feathericons/feather)<br>
-3. ⬆️ Pushed 1 commit(s) to [emidarraga/bases-datos](https://github.com/emidarraga/bases-datos)<br>
+1. ⬆️ Pushed 1 commit(s) to [emidarraga/bases-datos](https://github.com/emidarraga/bases-datos)<br>
+2. ⭐ Starred [midudev/libros-programacion-gratis](https://github.com/midudev/libros-programacion-gratis)<br>
+3. ⭐ Starred [feathericons/feather](https://github.com/feathericons/feather)<br>
 4. ⬆️ Pushed 1 commit(s) to [emidarraga/bases-datos](https://github.com/emidarraga/bases-datos)<br>
-5. 📔 Created new repository [emidarraga/bases-datos](https://github.com/emidarraga/bases-datos)<br>
+5. ⬆️ Pushed 1 commit(s) to [emidarraga/bases-datos](https://github.com/emidarraga/bases-datos)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update>
