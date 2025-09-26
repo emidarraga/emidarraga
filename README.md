@@ -24,7 +24,6 @@ Apasionado por la tecnología, la programación y el aprendizaje sin fin (¡sí,
 ## ⚡ Actividad reciente
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [emidarraga/bases-datos](https://github.com/emidarraga/bases-datos)<br>
-2. ⬆️ Pushed 1 commit(s) to [emidarraga/bases-datos](https://github.com/emidarraga/bases-datos)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update>
