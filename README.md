@@ -23,6 +23,7 @@ Apasionado por la tecnología, la programación y el aprendizaje sin fin (¡sí,
 
 ## ⚡ Actividad reciente
 <!--RECENT_ACTIVITY:start-->
+1. 📔 Created new repository [emidarraga/jscamp](https://github.com/emidarraga/jscamp)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update>
