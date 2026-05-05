@@ -1,4 +1,4 @@
-# Hi, I'm Esteban 👋
+![Banner](/assets/banner2.png)
 
 Apasionado por la tecnología, la programación y el aprendizaje sin fin (¡sí, soy de esos que disfrutan descubrir cosas nuevas todo el tiempo!). Me encanta meterme en proyectos donde pueda aprender, aportar ideas frescas y, por qué no, también pasarla bien. Siempre estoy buscando formas de hacer la vida más fácil y eficiente con soluciones creativas y bien pensadas. Si hay algo que me motiva, es ver cómo una buena idea puede convertirse en una gran herramienta para los demás.
 
