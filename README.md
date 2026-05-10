@@ -4,8 +4,8 @@
 
 
 <!-- My personal description -->
-<article align="center">
-<h1 align="center">Hi 👋, I'm Esteban</h1>
+<article>
+<h1>Hi 👋, I'm Esteban</h1>
 <p>
 Fan of code, technology, and “what if I try this?” moments.
 I enjoy learning, building useful solutions, and turning slightly crazy ideas into tools that actually work. Debugging by day, overthinking projects by night.
