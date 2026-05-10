@@ -19,25 +19,7 @@ Sometimes I talk more to the terminal than to people… and it usually gives bet
 <!-- stack -->
 <article align="center">
     <h2>My tech stack:</h2>
-    <img src="https://skillicons.dev/icons?i=git" />
-    <img src="https://skillicons.dev/icons?i=github" />
-    <img src="https://skillicons.dev/icons?i=docker" />
-    <img src="https://skillicons.dev/icons?i=vim" />
-    <img src="https://skillicons.dev/icons?i=bash" />
-    <img src="https://skillicons.dev/icons?i=angular" />
-    <img src="https://skillicons.dev/icons?i=aws" />
-    <img src="https://skillicons.dev/icons?i=arduino" />
-    <img src="https://skillicons.dev/icons?i=css" />
-    <img src="https://skillicons.dev/icons?i=html" />
-    <img src="https://skillicons.dev/icons?i=js" />
-    <img src="https://skillicons.dev/icons?i=java" />
-    <img src="https://skillicons.dev/icons?i=linux" />
-    <img src="https://skillicons.dev/icons?i=md" />
-    <img src="https://skillicons.dev/icons?i=mongodb" />
-    <img src="https://skillicons.dev/icons?i=mysql" />
-    <img src="https://skillicons.dev/icons?i=nodejs" />
-    <img src="https://skillicons.dev/icons?i=py" />
-    <img src="https://skillicons.dev/icons?i=vscode" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,vim,bash,angular,react,aws,arduino,css,html,js,java,linux,md,mongodb,mysql,nodejs,py,vscode&perline=12" />
 </article>
 
 <!-- Projects -->
@@ -104,6 +86,8 @@ Sometimes I talk more to the terminal than to people… and it usually gives bet
 <article align="center">
 <h2>GitHub Stats:</h2>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emidarraga&theme=dark" alt="emidarraga" />
+
+
 </article>
 
 
