@@ -1,5 +1,5 @@
 <!-- Banner img -->
-<img src="./assets/mario-banner.gif">
+<img src="./assets/mario-banner-2.gif">
 
 
 
@@ -17,13 +17,13 @@ Sometimes I talk more to the terminal than to people… and it usually gives bet
 
 
 <!-- stack -->
-<article align="center">
+<article >
     <h2>My tech stack:</h2>
-    <img src="https://skillicons.dev/icons?i=git,github,docker,vim,bash,angular,react,aws,arduino,css,html,js,java,linux,md,mongodb,mysql,nodejs,py,vscode&perline=12" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,vim,bash,angular,react,aws,arduino,css,html,js,java,linux,md,mongodb,mysql,nodejs,py,vscode" />
 </article>
 
 <!-- Projects -->
-<article align="center">
+<article>
 <h2>My Projects</h2>
 <table style="width:100%">
 <tr>
@@ -83,7 +83,7 @@ Sometimes I talk more to the terminal than to people… and it usually gives bet
 
 <!-- Stats -->
 
-<article align="center">
+<article>
 <h2>GitHub Stats:</h2>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emidarraga&theme=dark" alt="emidarraga" />
 
