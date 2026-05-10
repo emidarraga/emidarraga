@@ -19,7 +19,7 @@ Sometimes I talk more to the terminal than to people… and it usually gives bet
 <!-- stack -->
 <article >
     <h2>My tech stack:</h2>
-    <img src="https://skillicons.dev/icons?i=git,github,docker,vim,bash,angular,react,aws,arduino,css,html,js,java,linux,md,mongodb,mysql,nodejs,py,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,vim,bash,angular,react,aws,arduino,css,html,js,java,linux,md,mongodb,mysql,nodejs,py,vscode&perline=10" />
 </article>
 
 <!-- Projects -->
